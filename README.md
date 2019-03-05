@@ -1,7 +1,9 @@
 <h1>Cache File Recognizer</h1>
 <p>Software that analyzes data and formats it. Each file format are in different folders</p>
 <a href="https://hackernoon.com/determining-file-format-using-python-c4e7b18d4fc4">This project is powered by the python library fleep, more info can be found here</a>
-<br><br>
+<br>
+<h2>DO NOT RUN IT ON YOUR DEKTOP ETC, ALL FILES IN THE DIRECTORY ARE AFFECTED. KEEP EVERYTHING WITIN A FOLDER</h2>
+<br>
 <p>Supported file formats can be found <a href="https://github.com/floyernick/fleep-py#supported-formats">here!</a></p>
 <br><br>
 <h3>How to use:</h3>

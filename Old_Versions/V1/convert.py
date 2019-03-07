@@ -197,7 +197,7 @@ def supported_mimes():
 # FLEEP
 
 for i in os.listdir():
-    if not ".exe" in i:
+    if not ".py" in i:
         with open(i, "rb") as file:
             info = get(file.read(128))
         if len(info.extension) > 0:

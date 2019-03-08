@@ -8,7 +8,12 @@
 <br><br>
 <h3>How to use:</h3>
 <p>Start off by downloading the .exe file (or python file if you prefer) <a href="https://github.com/Yazaar/CacheFileRecognizer/blob/master/converter.exe?raw=true">(EXE)</a> <a href="https://github.com/Yazaar/CacheFileRecognizer/archive/master.zip">(PYTHON3.6)</a></p>
-<p>Find the files that you want to analyze, place all of them inside of a folder. Place the executable inside there as well. Run it, you are going to get a blue popup. Find "Run anyways" (click on More Info)</p>
+<p>I recommend to create a folder somewhere, place the .exe or .py inside of it</p>
+<p>Run your .exe or .py file to generate file-dependencies.</p>
+<p>A blue popup should appear, click "show more" and then run anyways (I'm not a verified devoloper by microsoft)</p>
 <p>Wait a few seconds while it is working...</p>
+<p>Find all of your files that you would like to analyze and patch, place the files (and folders) inside of the data folder</p>
+<p>Run the .exe or .py again, wait for the software to analyze your files</p>
+<p>The software will output the files in the Results folder, each run got their own folder (counted from 0 and up)</p>
 <p>The files should be sorted by file type within different folders (not all of them may work)</p>
 <h4>Good luck with your file recognition!</h4>

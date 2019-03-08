@@ -1,0 +1,30 @@
+Cache File Recognizer (V2)
+Software that analyzes data and formats it. Each file format are in different folders
+
+This project is powered by the python library fleep, more info can be found here 
+DO NOT RUN IT ON YOUR DEKTOP ETC, ALL FILES IN THE DIRECTORY ARE AFFECTED. KEEP EVERYTHING WITIN A FOLDER
+
+Supported file formats can be found here!
+
+This version will ignore all files that are formated correctly (They will stay in the data folder).
+
+How to use:
+Start off by downloading the .exe file (or python file if you prefer) (EXE) (PYTHON3.6)
+
+I recommend to create a folder somewhere, place the .exe or .py inside of it
+
+Run your .exe or .py file to generate file-dependencies.
+
+A blue popup should appear, click "show more" and then run anyways (I'm not a verified devoloper by microsoft)
+
+Wait a few seconds while it is working...
+
+Find all of your files that you would like to analyze and patch, place the files (and folders) inside of the data folder
+
+Run the .exe or .py again, wait for the software to analyze your files
+
+The software will output the files in the Results folder, each run got their own folder (counted from 0 and up)
+
+The files should be sorted by file type within different folders (not all of them may work)
+
+Good luck with your file recognition!

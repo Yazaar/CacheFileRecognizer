@@ -6,7 +6,7 @@
 <p>Supported file formats can be found <a href="https://github.com/floyernick/fleep-py#supported-formats">here!</a></p>
 <br><br>
 <h3>How to use:</h3>
-<p>Start off by downloading the .exe file (or python file if you prefer) <a href="https://github.com/Yazaar/CacheFileRecognizer/blob/master/ConverterV3.exe?raw=true">(EXE)</a> <a href="https://github.com/Yazaar/CacheFileRecognizer/archive/master.zip">(Others)</a></p>
+<p>Start off by downloading the .exe file (or python file if you prefer) <a href="https://github.com/Yazaar/CacheFileRecognizer/blob/master/ConverterV3.exe?raw=true">(EXE)</a> <a href="https://github.com/Yazaar/CacheFileRecognizer/archive/master.zip">(OTHERS)</a></p>
 <h4>I recommend to place the .exe or .py inside of an empty folder for simplicity reasons</h4>
 <p>Run your .exe or .py file to generate the data folder</p>
 <p>A blue popup should appear, click "show more" and then run anyways (I'm not a verified devoloper by microsoft)</p>

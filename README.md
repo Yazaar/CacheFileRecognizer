@@ -1,5 +1,5 @@
 <h1>Cache File Recognizer</h1>
-<p>Software that analyzes data and formats it. Each file format are sorted into different folders</p>
+<p>Software that analyzes data and formats it. Each file format is sorted into different folders</p>
 <a href="https://hackernoon.com/determining-file-format-using-python-c4e7b18d4fc4">This project is powered by the python library fleep, more info can be found here</a>
 <br>
 <br>
